@@ -1,0 +1,25 @@
+{
+  "name": "line-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [
+    "Discord",
+    "Discord.js",
+    "JavaScript"
+  ],
+  "author": "8a2ed",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "image-url-validator": "^1.0.4",
+    "quick.db": "7.1.3"
+  }
+}
